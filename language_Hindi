@@ -1,0 +1,62 @@
+LOGIN_WELCM1 - {Player Name}, aap apne account mein safalta se login ho gaye.
+LOGIN_WELCM2 - Argonath RPG RS5 mein aapka swaagat hai.
+LOGIN_MFERR1 - Multi-factor verification seva abhi vyast hai. Kripya thodi pratiksha karein.
+LOGIN_MFERR2 - Error: Ye code galat hai!
+LOGIN_MF1    - Aapke account mein multi-factor authentication seva uplabdh hai.\n\n Kripya apna code neeche diye gaye Google Panel mein daalein:
+LOGIN_PASSER1- Error: Aapke dwara daala hua password galat hai. Kripya chhote-bade akshar ka dhyan rakhein.
+LOGIN_PASSER2- Error: Aapke dwara daala hua password galat hai.
+LOGIN_PASS2  - Kripya apna password dobaara likhein.
+LOGIN_QUIT   - Kya aap yakeenan server chhodna chahte hain?
+LOGIN_ADULT  - Chetavni: Iss server pe 18 se kam umr ko apmaani anubhav ho sakta hai. 
+LOGIN_BYE1   - Argonath RPG ki taraf se alvida.
+ERROR_NOTLOG - Error: Aap logged in nahi hain.
+ERROR_KICK   - Error: Ye command abhi uplabdh nahi hai.
+ECON_RELOAD  - [ALERT] Aapki dhan daulat abhi kuch der ke liye uplabdh nahi hai, kripya pratiksha karein.
+TXT_Login0   - Argonath RPG mein aapka swaagat hai.
+TXT_Login1   - Apne aap mein, ek alag duniya.
+CMD_TIME     - Abhi ka samay {Time} hai (CET - Central European Time).
+CMD_TD       - Abhi ka samay {time} (CET - Central European Time), aur tarikh {date} hai.
+CMD_DATE     - Aaj ki tarikh {date} hai.
+MONTH_1      - January
+MONTH_2      - February
+MONTH_3      - March
+MONTH_4      - April
+MONTH_5      - May
+MONTH_6      - June
+MONTH_7      - July
+MONTH_8      - August
+MONTH_9      - September
+MONTH_10     - October
+MONTH_11     - November
+MONTH_12     - December
+
+// Other
+RES_COMBAT   - Aap ladte samay ye prakriya nahi kar sakte.
+RES_NODONE	 - Error: Ye suvidha ek samsya ke karan abhi uplabdh nahi hai.
+
+// Economy
+ECON_ATM_TY  - ATM seva ka pryog karne ke liye Argonath RPG aapa shukriya ada karta hai!"
+ECON_ATM_NC  - Error: Aap abhi kisi ATM pe nahi hain.
+ECON_ATM_CIV - Iss seva ke liye aapke paas bank khaata hona chahiye. Aap ek kaanuni naagrik hone chahiye.
+ECON_ATM_LIM - Error: Aap ATM se $100,00 se zyada nahi nikal sakte. Kripya apni bank ki shaakha se sampark karein.
+ECON_ATM_POS - Error: Aap 0 se kam maatra ATM se nahi nikaal sakte.
+ECON_ATM_1m  - Error: Kripya len-den ke baad ATM ko ek minute ka samay dein.
+ECON_BNK_N10 - Error: Aap 10 ank se zyada badi maatra nahi daal sakte.
+ECON_BNK_DBT - Bank: Aapka bank khaata udhaar ke kaaran zabt kar liya gaya hai.
+ECON_BNK_ACC - Ye bank khaata uplabdh nahi hai ya aapke paas iski anumati nahi hai.
+ECON_BNK_FKT - Iss bank khaate mein koi samasya hai.
+ECON_BNK_LRG - Error: Ye maatra bahut badi hai.
+ECON_BNK_MIN - Error: Aap $1 se kam maatra nahi daal sakte.
+ECON_BNK_FUN - Error: Aapke paas khaate mein daalne ke liye itna dhan nahi hai.
+ECON_BNK_WNSF- Aapke paas is karya ke liye itna dhan nahi hai.
+ECON_BNK_TY  - Argonath RPG Bank ki taraf se shukria.
+ECON_BNK_REJ - Aapki len-den ki prakriya sweekar nahi ki gayi.
+ECON_BNK_PART- Aapka saathi bank mein hona chahiye!
+ECON_BNK_PSLF- Aap apne aap ko apna saathi nahi bana sakte.
+ECON_BNK_PNO - Aapne bank khaata kholne ki prakriya radd kar di.
+ECON_BNK_PPNO- Aapke saathi ne naya khaata kholne ki anumati nahi di.
+ECON_BNK_LOAD- Error: Aapka bank khata abhi vyast hai, kripya sabr rakhein.
+ECON_BNK_BNK - Error: Ye kaam ke liye, aap bank mein hone chahiye.
+ECON_BNK_CIV - Error: Bank khaata kholne ke liye aapke paas ek kaanooni passport hona chahiye.
+ECON_BNK_CRI - Error: Udhar, gareebi aur bhrashtachar ke karan, bank seva band kar di gayi hai.
+ECON_BNK_GRP - Error: Ek sanghatan ke bank khaate se len-den karne ke liye /groupbank ka pryog karein.
